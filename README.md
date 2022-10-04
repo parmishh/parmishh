@@ -26,6 +26,8 @@
 <a href="https://web3js.readthedocs.io/en/v1.8.0/" target="_blank" rel="noreferrer"> <img src="https://repository-images.githubusercontent.com/24655114/c71c5800-6a8c-11e9-9117-8ec357c9f69e" alt="web3" width="40" height="40"/> </a>
 <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"> <img src="https://miro.medium.com/max/1400/0*EdW9jZcm8Sd7IpCE." alt="solidity" width="40" height="40"/> </a>
 <a href="https://docs.chef.io/" target="_blank" rel="noreferrer"> <img src="https://res.cloudinary.com/crunchbase-production/image/upload/c_lpad,h_256,w_256,f_auto,q_auto:eco,dpr_1/kano6ajvqzze9dtjtxr7" alt="chef" width="40" height="40"/> </a>
+<a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Ansible" width="35" height="37"/> </a>
+<a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://flynn.gg/assets/images/mpl.png" alt="matplotlib" width="37" height="37"/> </a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parmishh&show_icons=true&locale=en&layout=compact" alt="parmishh" /></p>
