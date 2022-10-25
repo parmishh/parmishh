@@ -1,3 +1,4 @@
+![logo](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Paramjit Singh</h1>
 <h3 align="center">A passionate Software developer from India</h3>
 
