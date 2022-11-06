@@ -38,7 +38,7 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmishh&" alt="parmishh" /></p>
 
 
-## Snake eating my contributions 👀👀
+## OH NO!! Snake is eating my contributions 👀👀
 ![snake gif](https://github.com/parmishh/parmishh/blob/output/github-contribution-grid-snake.gif)
 
 
