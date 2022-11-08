@@ -1,0 +1,2 @@
+.github/workflows/* linguist-documentation=false
+.github/workflows/* linguist-vendored
