@@ -1,6 +1,6 @@
 ![logo](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
 <h1 align="center">Hi 👋, I'm Paramjit Singh </h1>
-<h3 align="center">A passionate Software developer from India </h3>
+<h3 align="center"><a href="https://parmishh.github.io/JS-Game/">🎇 </a>A passionate Software developer from India </h3>
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 <h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About me ....</h3>
@@ -11,7 +11,7 @@
 - 💬 Ask me about **MERN, Cloud, Data Science and ML**
 
 - 📫 How to reach me **paramjit1071@gmail.com**
-- 🎇 Play a game made by me <a href="https://parmishh.github.io/JS-Game/">Game</a>
+
 
 - ⚡ Fun fact **I am a Comedian😁**
 <h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct=g" width="50">&nbsp;Connect with me:</h3>
