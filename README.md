@@ -11,6 +11,7 @@
 - 💬 Ask me about **MERN, Cloud, Data Science and ML**
 
 - 📫 How to reach me **paramjit1071@gmail.com**
+- 🎇 Play a game made by me <a href="https://parmishh.github.io/JS-Game/">Game</a>
 
 - ⚡ Fun fact **I am a Comedian😁**
 <h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct=g" width="50">&nbsp;Connect with me:</h3>
