@@ -1,4 +1,4 @@
-![logo](https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png)
+![logo](https://user-images.githubusercontent.com/91942072/212127242-9e4f6ec1-bf4d-4696-bd53-275ab097f1ad.jpg)
 <h1 align="center">Hi 👋, I'm Paramjit Singh</h1>
 <h3 align="center"><a href="https://parmishh.github.io/JS-Game/">🎇 </a>A passionate Software developer from India </h3>
 
@@ -18,7 +18,7 @@
 <p align="left">
 <a href="https://twitter.com/paramji09777660" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115540-8bd28e59-36f8-47dc-93f6-edff06cfd080.png" alt="paramji09777660" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paramjit-singh-19ba671ba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115338-8b9189e4-d21e-4a31-85e3-6c8d432e7dc1.png" height="30" width="40" /></a>
-<a href="https://instagram.com/parmishsinghz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115270-66da3c81-34e9-456c-aa91-a981b48202e4.png" alt="parmishsinghz" height="30" width="40" /></a>
+<a href="https://instagram.com/parmishsinghz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115270-66da3c81-34e9-456c-aa91-a981b48202e4.png" alt="parmishsinghz" height="34" width="40" /></a>
 <a href="https://www.codechef.com/users/param88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="param88" height="30" width="40" /></a>
 </p>
 
