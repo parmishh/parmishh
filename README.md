@@ -17,7 +17,7 @@
 <h3 align="left"><img src="https://media1.giphy.com/media/vxWq52dFPthnKjRbLY/giphy.gif?cid=ecf05e473u9yjexwj6e1vzzgdufk7t78pvskt163i1zv02f1&rid=giphy.gif&ct=g" width="50">&nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/paramji09777660" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paramji09777660" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paramjit-singh-19ba671ba" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paramjit-singh-19ba671ba" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/paramjit-singh-19ba671ba" target="blank"><img align="https://user-images.githubusercontent.com/91942072/212115338-8b9189e4-d21e-4a31-85e3-6c8d432e7dc1.png" alt="paramjit-singh-19ba671ba" height="30" width="40" /></a>
 <a href="https://instagram.com/parmishsinghz" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="parmishsinghz" height="30" width="40" /></a>
 <a href="https://www.codechef.com/users/param88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="param88" height="30" width="40" /></a>
 </p>
