@@ -35,14 +35,14 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Ansible" width="35" height="37"/> </a>
 <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://flynn.gg/assets/images/mpl.png" alt="matplotlib" width="37" height="37"/> </a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parmishh&show_icons=true&locale=en&layout=compact" height="250" width="400" alt="parmishh" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parmishh&show_icons=true&locale=en&layout=compact"  alt="parmishh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parmishh&show_icons=true&locale=en" alt="parmishh" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmishh&" alt="parmishh" /></p>
 
 
 
-<a href="https://www.holopin.io/@param99"> <img src="https://user-images.githubusercontent.com/91942072/215011972-f4333fff-2726-4115-ba37-c32c5409aeac.PNG" alt="Holopin" width="75" height="75"/> </a>
+<a href="https://www.holopin.io/@param99"> <img src="https://user-images.githubusercontent.com/91942072/215011972-f4333fff-2726-4115-ba37-c32c5409aeac.PNG" alt="Holopin" width="75" height="70"/> </a>
 <a href="https://api.badgr.io/public/assertions/ABo8CsjWRfCJtFQFaM-9Fw?identity__email=paramjit1071%40gmail.com"> <img src="https://user-images.githubusercontent.com/91942072/215013021-04b1f645-d123-40fb-90d7-27f1cd7df9c2.png"  alt="postman" width="75" height="75"/> </a>
 
 ## OH NO!! Snake is eating my contributions 👀👀
