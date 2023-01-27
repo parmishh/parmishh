@@ -43,8 +43,9 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmishh&" alt="parmishh" /></p>
 
 
+
+<a href="https://www.holopin.io/@param99"> <img src="https://user-images.githubusercontent.com/91942072/215011972-f4333fff-2726-4115-ba37-c32c5409aeac.PNG" alt="Holopin" width="75" height="75"/> </a>
+<a href="https://api.badgr.io/public/assertions/ABo8CsjWRfCJtFQFaM-9Fw?identity__email=paramjit1071%40gmail.com"> <img src="https://user-images.githubusercontent.com/91942072/215013021-04b1f645-d123-40fb-90d7-27f1cd7df9c2.png"  alt="postman" width="75" height="75"/> </a>
+
 ## OH NO!! Snake is eating my contributions 👀👀
 ![snake gif](https://github.com/parmishh/parmishh/blob/output/github-contribution-grid-snake.gif)
-<a href="https://www.holopin.io/@param99"> <img src="https://holopin.me/param99" align='center' alt="Holopin" width="600" height="150"/> </a>
-
-
