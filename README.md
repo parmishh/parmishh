@@ -39,7 +39,7 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parmishh&show_icons=true&locale=en&layout=compact"  alt="parmishh" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parmishh&show_icons=true&locale=en" alt="parmishh" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parmishh&" alt="parmishh" /></p>
+
 
 
 
