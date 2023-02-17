@@ -36,10 +36,10 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Ansible" width="35" height="37"/> </a>
 <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://flynn.gg/assets/images/mpl.png" alt="matplotlib" width="37" height="37"/> </a>
 </p>
+<tr>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=parmishh&show_icons=true&locale=en&layout=compact"  alt="parmishh" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=parmishh&show_icons=true&locale=en" alt="parmishh" /></p>
-
+</tr>
 
 
 
