@@ -11,6 +11,7 @@
 - 💬 Ask me about **MERN, Cloud, Data Science and ML**
 
 - 📫 How to reach me **paramjit1071@gmail.com**
+- 🌐Portfolio: <a href="https://parmishh.github.io/portfolio/"><i>Link</i></a>
 
 
 - ⚡ Fun fact **I am a Comedian😁**
