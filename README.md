@@ -14,7 +14,7 @@
 
 - ⚡ Fun fact **I am a Comedian😁**
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif" width="50">&nbsp;Connect with me:</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif" width="50" height="50">&nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parmishhz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115540-8bd28e59-36f8-47dc-93f6-edff06cfd080.png" alt="paramji09777660" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paramjit-singh-19ba671ba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115338-8b9189e4-d21e-4a31-85e3-6c8d432e7dc1.png" height="30" width="40" /></a>
