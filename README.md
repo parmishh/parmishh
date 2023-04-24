@@ -13,7 +13,9 @@
 
 
 - ⚡ Fun fact **I am a Comedian😁**
-<h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif" width="50">&nbsp;Connect with me:</h3>
+<details>
+   <summary>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif" width="50">&nbsp;Connect with me:</h3></summary>
 <p align="left">
 <a href="https://twitter.com/parmishhz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115540-8bd28e59-36f8-47dc-93f6-edff06cfd080.png" alt="paramji09777660" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paramjit-singh-19ba671ba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115338-8b9189e4-d21e-4a31-85e3-6c8d432e7dc1.png" height="30" width="40" /></a>
@@ -21,8 +23,10 @@
    <a href="https://googlecloud.qwiklabs.com/public_profiles/06a0e372-bf95-44d3-9f11-36ff9b577138" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/215113897-eca77814-c446-4b06-b1c3-9dd12bfa3c0a.jpg" alt="qwicklabs-GCP" height="40" width="40" /></a>
 <a href="https://parmishh.github.io/portfolio/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/221443062-5491a713-c34a-41f6-9865-1911a3f66e63.png" alt="param88" height="45" width="44" /></a><a href="https://www.codechef.com/users/param88" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="param88" height="35" width="40" /></a>
 </p>
-
-<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3>
+</details>
+<details>
+   <summary>
+<h3 align="left"><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="50"> Languages and Tools:</h3></summary>
 <p align="left"> <a href="https://docs.aws.amazon.com/index.html?nc2=h_ql_doc_do" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212120594-b36b7226-20f8-427c-a81f-8f7ac7768a14.png" alt="aws" width="55" height="40"/> </a> <a href="https://getbootstrap.com/docs/5.2/getting-started/introduction/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212629237-f8dcfde1-d29d-4142-9db6-e9f6db91490e.png" alt="bootstrap" width="40" height="43"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212634188-6c6bf262-38a1-4659-ab60-1afdf27784bc.png" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212629226-3d212485-3d52-458e-ac7f-b08d91f781af.png" alt="cplusplus" width="40" height="40"/> </a>  <a href="https://docs.docker.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212534986-441c5f12-2e86-423b-a686-9633293f486e.png" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com/en/advanced/developing-template-engines.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212535004-38a2cc53-be03-414e-b033-12d182f9e94b.png" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com/docs" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/doc" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212629220-a3e49837-81e6-4729-af31-27d87fc28892.png" alt="html5" width="40" height="40"/> </a> <a href="https://dev.java/learn/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212629223-10a5ae1c-835a-48f2-8666-609ef03b0562.png" alt="java" width="45" height="43"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212535006-883f06b7-74e4-4634-9044-bc248b74fe90.png" alt="javascript" width="40" height="40"/> </a> <a href="
 https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a><a href="https://maven.apache.org/guides/" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_maven_icon_130397.png" alt="maven" width="37" height="37"/> </a> <a href="https://kubernetes.io/docs/home/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/forums/#linux-tutorials.122" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212535395-874e3777-ab52-41e9-a9a3-5c2730e1c9e7.png" alt="linux" width="40" height="40"/> </a>
    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://www.tutorialsteacher.com/Content/images/home/typescript.svg" alt="typescript" width="37" height="37"/> </a><a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212634416-86f4f81d-19a4-4514-8a15-bd73d81df5ca.svg" alt="css3" width="40" height="38"/> </a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212534981-676110a3-fe3e-41be-b554-21cae5da6d8c.png" alt="mongodb" width="40" height="40"/> </a> <a href="https://docs.oracle.com/en-us/iaas/mysql-database/doc/getting-started.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212535399-945f02b8-ab90-4dfc-9536-c12216e98938.png" alt="mysql" width="40" height="40"/> </a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212534992-2b37c225-0388-426a-aae6-cbd23baacc01.png" alt="redux" width="40" height="40"/> </a> <a href="https://nodejs.org/en/docs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212534980-e1cbb75e-84bb-49a3-83e5-812dd96cc4c9.png" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/docs/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212535640-40886b8e-f4da-4c82-8e2a-bf60673676a4.png" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://docs.python.org/3/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212535009-17895c36-10dc-4d6a-80c1-772498267310.png" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/docs/getting-started.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/212534397-9fe0eab6-57a8-497f-b011-9bf078d192a1.png" alt="react" width="40" height="40"/> </a>
@@ -35,16 +39,21 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 <a href="https://docs.ansible.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Ansible_logo.svg/1664px-Ansible_logo.svg.png" alt="Ansible" width="35" height="37"/> </a>
 <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://flynn.gg/assets/images/mpl.png" alt="matplotlib" width="37" height="37"/> </a>
 </p>
+   </details>
+   <details>
+   <summary><h3>Stats</h3></summary>
 <table align="center">
 <tr>
     <td align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=parmishh&show_icons=true&theme=dark&locale=en" alt="parmishh" /></td>
  <td align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=parmishh&show_icons=true&theme=dark&locale=en&layout=compact"  alt="parmishh" /></td>
 </tr>
 </table>
-
-
+</details>
+<details>
+   <summary><h3>Badges</h3></summary>
 <a href="https://www.holopin.io/@param99"> <img src="https://user-images.githubusercontent.com/91942072/215011972-f4333fff-2726-4115-ba37-c32c5409aeac.PNG" alt="Holopin" width="75" height="70"/> </a>
 <a href="https://api.badgr.io/public/assertions/ABo8CsjWRfCJtFQFaM-9Fw?identity__email=paramjit1071%40gmail.com"> <img src="https://user-images.githubusercontent.com/91942072/215013021-04b1f645-d123-40fb-90d7-27f1cd7df9c2.png"  alt="postman" width="75" height="75"/> </a>
+</details>
 
 ## OH NO!! Snake is eating my contributions 👀👀
 ![snake gif](https://github.com/parmishh/parmishh/blob/output/github-contribution-grid-snake.gif)
