@@ -3,7 +3,7 @@
 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
-<h3><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">&nbsp;About me ....</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmishh&label=Profile%20views&color=0e75b6&style=flat" alt="parmishh" /> </p>
 
 
@@ -40,8 +40,11 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://flynn.gg/assets/images/mpl.png" alt="matplotlib" width="37" height="37"/> </a>
 </p>
    </details>
+   
    <details>
-   <summary><h3>Stats</h3></summary>
+   <summary>
+   <h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535650-7b8e6a0e-0310-4654-906e-b71844a30c1e.gif" width="50" >&nbsp;Stats</h3></summary>
+   </summary>
 <table align="center">
 <tr>
     <td align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=parmishh&show_icons=true&theme=dark&locale=en" alt="parmishh" /></td>
@@ -50,7 +53,7 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 </table>
 </details>
 <details>
-   <summary><h3>Badges</h3></summary>
+   <summary><h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/234079774-4ba8d5b8-5358-405f-8fe1-a8cbf233d838.gif" width="50" >&nbsp;Badges</h3></summary>
 <a href="https://www.holopin.io/@param99"> <img src="https://user-images.githubusercontent.com/91942072/215011972-f4333fff-2726-4115-ba37-c32c5409aeac.PNG" alt="Holopin" width="75" height="70"/> </a>
 <a href="https://api.badgr.io/public/assertions/ABo8CsjWRfCJtFQFaM-9Fw?identity__email=paramjit1071%40gmail.com"> <img src="https://user-images.githubusercontent.com/91942072/215013021-04b1f645-d123-40fb-90d7-27f1cd7df9c2.png"  alt="postman" width="75" height="75"/> </a>
 </details>
