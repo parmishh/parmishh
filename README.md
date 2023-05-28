@@ -46,7 +46,7 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 <table align="center">
 <tr>
     <td align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=parmishh&show_icons=true&theme=dark&locale=en" alt="parmishh" /></td>
- <td align="center"><img  src="https://github-readme-stats.vercel.app/api/top-langs?username=parmishh&show_icons=true&theme=dark&locale=en&layout=compact"  alt="parmishh" /></td>
+ <td align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api/top-langs?username=parmishh&show_icons=true&theme=dark&locale=en&layout=compact"  alt="parmishh" /></td>
 </tr>
 </table>
 </details>
