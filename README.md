@@ -11,9 +11,6 @@
 - 📫 How to reach me **paramjit1071@gmail.com**
 - 🌐Portfolio: <a href="https://parmishh.github.io/portfolio/"><i>Link</i></a>
 
-
-- ⚡ Fun fact **I am a Comedian😁**
-
 <h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif" width="50" height="50">&nbsp;Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/parmishhz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115540-8bd28e59-36f8-47dc-93f6-edff06cfd080.png" alt="paramji09777660" height="30" width="40" /></a>
