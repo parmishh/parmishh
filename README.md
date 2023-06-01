@@ -1,4 +1,4 @@
-![logo](https://user-images.githubusercontent.com/91942072/212127242-9e4f6ec1-bf4d-4696-bd53-275ab097f1ad.jpg)
+
 <h1 align="center"><a href="https://parmishh.github.io/JS-Game/">🎇 </a>Hi 👋, I'm Paramjit Singh </h1>
 
 
