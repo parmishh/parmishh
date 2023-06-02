@@ -1,5 +1,7 @@
+<h1 align="center">
+<img src="https://private-user-images.githubusercontent.com/91942072/242886253-1ec7080b-b311-43d9-b3d7-0abbf2ad14fa.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg1NzA5OTY3LCJuYmYiOjE2ODU3MDk2NjcsInBhdGgiOiIvOTE5NDIwNzIvMjQyODg2MjUzLTFlYzcwODBiLWIzMTEtNDNkOS1iM2Q3LTBhYmJmMmFkMTRmYS5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNjAyJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDYwMlQxMjQxMDdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0xYjY4OGE0MDk2ZTNjYjFjMzA4OWMyNTQ5YmMwNjdkNzY1NjRlMzVlYWM1ZWViZDExNmVlNDM4MTZhY2Y4Yjc4JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.fkQmzK4ZvJ7585vXrr9oiKCWVWAfiO0QzFLG_mHMUdk" alt="Banner" style="width:100%;" align="centre">
+</h1>
 
-<h1 align="center"><a href="https://parmishh.github.io/JS-Game/">🎇 </a>Hi 👋, I'm Paramjit Singh </h1>
 
 
 <img align="right" alt="coding" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
