@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmishh&label=Profile%20views&color=0e75b6&style=flat" alt="parmishh" /> </p>
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/243184216-4a33514f-0e17-4d93-850a-b7548af8faed.gif" width="50" height="50">&nbsp;Connect with me:</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif" width="45" height="40">&nbsp;Connect with me:</h3>
 <p align="left">
  <a href="mailto:paramjit1071@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/243182193-d5f6ad33-715c-41c1-b061-a4807c79fad4.png" height="30" width="30" /></a>  
 <a href="https://twitter.com/parmishhz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115540-8bd28e59-36f8-47dc-93f6-edff06cfd080.png" alt="paramji09777660" height="30" width="40" /></a>
