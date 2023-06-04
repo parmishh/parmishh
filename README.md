@@ -8,7 +8,7 @@
 
 <h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif" width="45" height="40">&nbsp;Connect with me:</h3>
 <p align="left">
- <a href="mailto:paramjit1071@gmail.com" target="blank"><img align="center" src="https://private-user-images.githubusercontent.com/91942072/242600300-c3d40dc7-7573-4825-8576-15e98bc6d884.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJrZXkiOiJrZXkxIiwiZXhwIjoxNjg1NjIzNzY3LCJuYmYiOjE2ODU2MjM0NjcsInBhdGgiOiIvOTE5NDIwNzIvMjQyNjAwMzAwLWMzZDQwZGM3LTc1NzMtNDgyNS04NTc2LTE1ZTk4YmM2ZDg4NC5wbmc_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBSVdOSllBWDRDU1ZFSDUzQSUyRjIwMjMwNjAxJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDIzMDYwMVQxMjQ0MjdaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zOThlNjA5ZTQ1ZTg0ZWUyZmUxZjE5ZjNkZmE2ZGI4MTcxZTJlOTliYjIxODhlZmJhZTkzNTExODEwYmZiNDU2JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCJ9.iaa3g2tA1cK-XWHP1XA6CGintRiclEwP4KbDlo8MVao" height="30" width="30" /></a>  
+ <a href="mailto:paramjit1071@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/243182193-d5f6ad33-715c-41c1-b061-a4807c79fad4.png" height="30" width="30" /></a>  
 <a href="https://twitter.com/parmishhz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115540-8bd28e59-36f8-47dc-93f6-edff06cfd080.png" alt="paramji09777660" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/paramjit-singh-19ba671ba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115338-8b9189e4-d21e-4a31-85e3-6c8d432e7dc1.png" height="30" width="40" /></a>
 </a>
