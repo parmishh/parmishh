@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmishh&label=Profile%20views&color=0e75b6&style=flat" alt="parmishh" /> </p>
 
-<h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/212535631-750cb709-e062-43ed-836a-85a0cb9f975c.gif" width="45" height="40">&nbsp;Connect with me:</h3>
+<h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/243184216-4a33514f-0e17-4d93-850a-b7548af8faed.gif" width="50" height="50">&nbsp;Connect with me:</h3>
 <p align="left">
  <a href="mailto:paramjit1071@gmail.com" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/243182193-d5f6ad33-715c-41c1-b061-a4807c79fad4.png" height="30" width="30" /></a>  
 <a href="https://twitter.com/parmishhz" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115540-8bd28e59-36f8-47dc-93f6-edff06cfd080.png" alt="paramji09777660" height="30" width="40" /></a>
@@ -34,7 +34,7 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
    
    <details>
    <summary>
-   <h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/234079782-4b9d1320-888a-4e79-a39d-027c05c83c64.gif" width="50" >&nbsp;Stats</h3></summary>
+   <h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/243183687-bc1c32a8-d2e3-44ea-90c2-0acc7e32bc42.gif" width="50" >&nbsp;Stats</h3></summary>
    </summary>
 <table align="center">
 <tr>
@@ -44,7 +44,7 @@ https://www.jenkins.io/doc/" target="_blank" rel="noreferrer"> <img src="https:/
 </table>
 </details>
 <details>
-   <summary><h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/234079774-4ba8d5b8-5358-405f-8fe1-a8cbf233d838.gif" width="50" >&nbsp;Badges</h3></summary>
+   <summary><h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/243183685-dc3dd1e3-56d9-4229-94b4-4578cc6a1009.gif" width="50" >&nbsp;Badges</h3></summary>
 <a href="https://www.holopin.io/@param99"> <img src="https://user-images.githubusercontent.com/91942072/215011972-f4333fff-2726-4115-ba37-c32c5409aeac.PNG" alt="Holopin" width="75" height="70"/> </a>
 <a href="https://api.badgr.io/public/assertions/ABo8CsjWRfCJtFQFaM-9Fw?identity__email=paramjit1071%40gmail.com"> <img src="https://user-images.githubusercontent.com/91942072/215013021-04b1f645-d123-40fb-90d7-27f1cd7df9c2.png"  alt="postman" width="75" height="75"/> </a>
 </details>
