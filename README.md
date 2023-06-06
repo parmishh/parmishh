@@ -45,7 +45,7 @@
    <summary><h3 align="left"><img src="https://user-images.githubusercontent.com/91942072/243183685-dc3dd1e3-56d9-4229-94b4-4578cc6a1009.gif" width="50" >&nbsp;Badges</h3></summary>
 <a href="https://www.holopin.io/@param99"> <img src="https://user-images.githubusercontent.com/91942072/215011972-f4333fff-2726-4115-ba37-c32c5409aeac.PNG" alt="Holopin" width="75" height="70"/> </a>
 <a href="https://api.badgr.io/public/assertions/ABo8CsjWRfCJtFQFaM-9Fw?identity__email=paramjit1071%40gmail.com"> <img src="https://user-images.githubusercontent.com/91942072/215013021-04b1f645-d123-40fb-90d7-27f1cd7df9c2.png"  alt="postman" width="75" height="75"/> </a>
- <a href="https://api.badgr.io/public/assertions/fm4ujGyXTCOfsuTlm4wVJg?identity__email=paramjit1071%40gmail.com"> <img src="https://user-images.githubusercontent.com/91942072/243722274-91c5476b-c805-4498-a020-432532f48e1a.png"  alt="postman" width="73" height="73"/> </a>
+ <a href="https://api.badgr.io/public/assertions/fm4ujGyXTCOfsuTlm4wVJg?identity__email=paramjit1071%40gmail.com"> <img src="https://user-images.githubusercontent.com/91942072/243722274-91c5476b-c805-4498-a020-432532f48e1a.png"  alt="postman" width="73" height="75"/> </a>
 </details>
 
 ## OH NO!! Snake is eating my contributions 👀👀
