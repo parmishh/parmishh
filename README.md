@@ -44,5 +44,5 @@
 </table>
 </details>
 
-## OH NO!! Snake is eating my contributions 👀👀
-![snake gif](https://github.com/parmishh/parmishh/blob/output/github-contribution-grid-snake.gif)
+<!---## OH NO!! Snake is eating my contributions 👀👀
+![snake gif](https://github.com/parmishh/parmishh/blob/output/github-contribution-grid-snake.gif)--->
