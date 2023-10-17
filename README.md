@@ -2,7 +2,7 @@
 
 <h1 align="center"><a href="https://parmishh.github.io/JS-Game/">🎇 </a>Hi 👋, I'm Paramjit Singh </h1>
 
-<img align="right" alt="coding" width="300" height="300" src="https://media.tenor.com/ITc1hNBSH_wAAAAM/coding-typing.gif">
+<img align="right" alt="coding"  src="https://media1.giphy.com/media/13HgwGsXF0aiGY/giphy.gif?cid=ecf05e473xuwlpogf0m3iiuog6pdlko1hsd1yc2ytseiri8z&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmishh&label=Profile%20views&color=0e75b6&style=flat" alt="parmishh" /> </p>
 
