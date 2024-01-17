@@ -1,4 +1,3 @@
-
 <h1 align="center"><a href="https://parmishh.github.io/JS-Game/">🎇 </a>Hi 👋, I'm Paramjit Singh </h1>
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/91942072/275750418-a02f59ab-0c9b-44ad-b208-08423e0c0f64.gif">
