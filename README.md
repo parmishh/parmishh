@@ -11,7 +11,7 @@
 <a href="https://linkedin.com/in/paramjit-singh-19ba671ba" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/212115338-8b9189e4-d21e-4a31-85e3-6c8d432e7dc1.png" height="30" width="40" /></a>
 </a>
    <a href="https://googlecloud.qwiklabs.com/public_profiles/06a0e372-bf95-44d3-9f11-36ff9b577138" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/215113897-eca77814-c446-4b06-b1c3-9dd12bfa3c0a.jpg" alt="qwicklabs-GCP" height="40" width="40" /></a>
-<a href="https://parmishh.github.io/portfolio/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/221443062-5491a713-c34a-41f6-9865-1911a3f66e63.png" alt="param88" height="45" width="44" /></a>
+<a href="https://parmishh.vercel.app/" target="blank"><img align="center" src="https://user-images.githubusercontent.com/91942072/221443062-5491a713-c34a-41f6-9865-1911a3f66e63.png" alt="param88" height="45" width="44" /></a>
 </p>
 
 <details>
