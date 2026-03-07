@@ -1,6 +1,7 @@
 
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/91942072/275750418-a02f59ab-0c9b-44ad-b208-08423e0c0f64.gif">
+<!-- <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/91942072/275750418-a02f59ab-0c9b-44ad-b208-08423e0c0f64.gif"> -->
+<img align="right" alt="coding" width="400" src="https://private-user-images.githubusercontent.com/91942072/559844655-695aacb1-8c79-4a67-96c1-2bd2f42fc625.gif?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3NzI5MjUxODMsIm5iZiI6MTc3MjkyNDg4MywicGF0aCI6Ii85MTk0MjA3Mi81NTk4NDQ2NTUtNjk1YWFjYjEtOGM3OS00YTY3LTk2YzEtMmJkMmY0MmZjNjI1LmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNjAzMDclMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjYwMzA3VDIzMDgwM1omWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPTQ2ZDQ1NzcyMjQ1MTVlNDkzMWRmYzI3N2U2MDViMmRmZDdmMWNhZjdhYmRiMzJmNzliODRmODY3YzJmYzdmNzYmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.6YYDe817AU1jkUN0mF0lDYuisISLVD-BbGdfse_kHgQ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=parmishh&label=Profile%20views&color=0e75b6&style=flat" alt="parmishh" /> </p>
 
