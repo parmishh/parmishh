@@ -23,7 +23,6 @@
 <a href="https://web3js.readthedocs.io/en/v1.8.0/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/243185500-573b87d7-978f-43a2-a0d9-85385a2d60fa.png" alt="web3" width="40" height="40"/> </a>
 <a href="https://developer.hashicorp.com/terraform/docs" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/243185503-4b9bb250-f76b-4caf-a211-61a67dbfcc12.png" alt="terraform" width="37" height="37"/> </a>
 <a href="https://docs.chef.io/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/243185502-19750370-38e2-4952-a6ee-3238b068fadf.png" alt="chef" width="40" height="40"/> </a>
-
 <a href="https://matplotlib.org/stable/index.html" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/243185505-ec861fa8-f72d-473e-ad4c-bfe411684625.png" alt="matplotlib" width="37" height="37"/> </a>
  <a href="https://docs.soliditylang.org/en/v0.8.17/" target="_blank" rel="noreferrer"> <img src="https://user-images.githubusercontent.com/91942072/243186472-5f13d7aa-b7c6-4556-b277-bcea49e76a39.png" alt="solidity" width="50" height="40"/> </a>
 </p>
